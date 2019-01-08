@@ -1,6 +1,4 @@
 **Sonoff Basic**
-
-¡Gracias por  tu  compra!  
   
 Bienvenido al Internet de las Cosas.  
   
